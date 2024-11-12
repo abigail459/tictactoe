@@ -11,7 +11,7 @@
 		D1D0F7BC2CE328AD001A2E17 /* Start.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D0F7BB2CE328AD001A2E17 /* Start.swift */; };
 		D1D0F7BE2CE328B0001A2E17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1D0F7BD2CE328B0001A2E17 /* Assets.xcassets */; };
 		D1D0F7C12CE328B0001A2E17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1D0F7C02CE328B0001A2E17 /* Preview Assets.xcassets */; };
-		D1D0F7C82CE32A14001A2E17 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D0F7C72CE32A14001A2E17 /* Game.swift */; };
+		D1D0F7C82CE32A14001A2E17 /* ActualGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D0F7C72CE32A14001A2E17 /* ActualGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		D1D0F7BB2CE328AD001A2E17 /* Start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Start.swift; sourceTree = "<group>"; };
 		D1D0F7BD2CE328B0001A2E17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1D0F7C02CE328B0001A2E17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		D1D0F7C72CE32A14001A2E17 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		D1D0F7C72CE32A14001A2E17 /* ActualGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActualGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			children = (
 				D1D0F7B92CE328AD001A2E17 /* Tic_Tac_Toe_DimensionalApp.swift */,
 				D1D0F7BB2CE328AD001A2E17 /* Start.swift */,
-				D1D0F7C72CE32A14001A2E17 /* Game.swift */,
+				D1D0F7C72CE32A14001A2E17 /* ActualGame.swift */,
 				D1D0F7BD2CE328B0001A2E17 /* Assets.xcassets */,
 				D1D0F7BF2CE328B0001A2E17 /* Preview Content */,
 			);
@@ -141,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1D0F7BC2CE328AD001A2E17 /* Start.swift in Sources */,
-				D1D0F7C82CE32A14001A2E17 /* Game.swift in Sources */,
+				D1D0F7C82CE32A14001A2E17 /* ActualGame.swift in Sources */,
 				D1D0F7BA2CE328AD001A2E17 /* Tic_Tac_Toe_DimensionalApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

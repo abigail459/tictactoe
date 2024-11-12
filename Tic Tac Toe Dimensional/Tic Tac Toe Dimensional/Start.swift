@@ -27,7 +27,7 @@ struct Start: View {
                     
                     Spacer()
                         .frame(height: 60)
-                    NavigationLink(destination: Game()) {
+                    NavigationLink(destination: ActualGame()) {
                         ZStack {
                             Rectangle()
                                 .frame(width: 150, height: 145)
